@@ -38,7 +38,7 @@ p{margin-top: 50px;
 
 }
 .about a{
-  background: #555;
+  background: #26253a;
   text-decoration: none;
   color: #fff;
   font-family: 'Source Sans Pro', sans-serif;
@@ -57,7 +57,7 @@ p{margin-top: 50px;
 }
 
 .about a:hover,.about a:active{
-  border: 5px solid #999;
+  border: 1px solid #26253a;
   color:#555;
   background: #fff;
 }

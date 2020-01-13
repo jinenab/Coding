@@ -37,7 +37,7 @@ render(){
 </div>
 <div  id="footer-end">
 
-  <p>Copyright © 2016 Your Company | Design: Templatemo</p>
+  <p>Copyright © 2016 Jinen| Design: Jinen</p>
 </div>
 </div>
   );
